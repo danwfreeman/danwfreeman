@@ -29,8 +29,8 @@
   - your data is not shared and is owned by _you_
  
  **Available Professional Services**
-    - help with initial system setup
-    - integration with your build system
-    - data science analysis
-    - ongoing support and customizations
+  - help with initial system setup
+  - integration with your build system
+  - data science analysis
+  - ongoing support and customizations
    
