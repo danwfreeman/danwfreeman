@@ -7,7 +7,7 @@
 - NoSql Databases
 - HTML/CSS expert
 - Systems Design
-- Serverless Application in the Cloud
+- Serverless Applications
 - Visulization engineer
 
 **Other**
