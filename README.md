@@ -3,12 +3,12 @@
 
 **Highly Experienced Full Stack Developer**
 - Object and Relational Databases
-- SQL optimization
+- SQL Optimization
 - NoSql Databases
-- HTML/CSS expert
+- HTML/CSS Expert
 - Systems Design
 - Serverless Applications
-- Visulization engineer
+- Visulization Engineer
 
 **Other**
 - Fitness enthusiast
