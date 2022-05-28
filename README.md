@@ -16,13 +16,13 @@
 - Today's normal: barbell squats and deadlifts followed by high intensity interval routines
 - Sporting event nickname: _Freebird_
 
-**This github account's primary focus is the 'Flap' repo or: "Freebird's Analytics Platform"**
-- Open source tools for collecting Real User Performance Metrics from your website - sent the cloud
+**This github account's primary focus is the 'Flap' repo or: "Freebird's Cloud Analytics Platform"**
+- Open source tools for collecting Real User Performance Metrics from your web based application
 - _React/D3_ application used to see your trending stats and daily aggregates
 - Implementation of_Google Chrome Lighthouse_ in the cloud - synthetically measure your website's performance by feature release and regression test
-- _Flap_ offers a platform for you, for **free** - a customized and integrated system of performance measurement applications, for your web based application
+- _Flap_ offers a cloud based platform for you, for **free** - a customized and integrated system of performance measurement applications, for your web based application
   - measure your application's performance before you release code to production
-  - measure what users experience from around the globe
+  - measure what users experience from around the region and globe
   - see your trending metrics broken down the way you want them
   - ensure your performance changes are in fact experienced, as expected, by your users in the real world
   - includes full documentation/instructions for standing up the Flap platform in *your* AWS Cloud account
