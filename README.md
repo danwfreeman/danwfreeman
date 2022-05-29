@@ -18,8 +18,8 @@
 
 **This github account's primary focus is the 'Flap' repo or: "Freebird's Cloud Analytics Platform"**
 - Open source tools for collecting Real User Performance Metrics for your web based application
-- _React/D3_ graphs available to see your trending stats and daily aggregates
-- Implementation of_Google Chrome Lighthouse_ in the cloud - synthetically, and accurately, measure your website's performance by feature release and regression test
+- CUstom graphs available to see your trending stats and daily aggregates
+- Implementation of_Google Chrome Lighthouse_ in the cloud - synthetically measure your website's performance and performance regression testing
 - _Flap_ offers a cloud based platform for you, for **free** - a customized and integrated system of performance measurement tools, for your web based application needs
   - measure your application's performance before you release code to production
   - measure what users experience from around the region and globe
