@@ -26,7 +26,7 @@
   - see your trending metrics broken down the way you want them
   - ensure your performance changes are in fact experienced, as expected, by your users in the real world
   - includes full documentation/instructions for standing up the Flap platform in *your* AWS Cloud account
-  - your data is not shared and is owned by _you_
+  - system runs in your cloud account, your data is owned only by _you_
  
  **Available Professional Services**
   - help with initial system setup
