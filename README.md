@@ -10,6 +10,9 @@
 - Serverless Applications
 - Visulization Engineer
 
+**Blog Site**
+- [ironbirdlife.org](https://ironbirdlife.org)
+
 **Other**
 - Fitness enthusiast
 - Yesteryear's normal: Marathon, Triathlon, CrossFit
