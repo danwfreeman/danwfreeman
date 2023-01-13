@@ -10,8 +10,9 @@
 - Serverless Applications
 - Visulization Engineer
 
-**Blog Site**
-- [ironbirdlife.org](https://ironbirdlife.org)
+**Site**
+- blog: [ironbirdlife.org](https://ironbirdlife.org)
+- resume: [danfreeman.us](https://danfreeman.us)
 
 **Other**
 - Fitness enthusiast
