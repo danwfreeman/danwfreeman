@@ -10,7 +10,7 @@
 - Serverless Applications
 - Visulization Engineer
 
-**Site**
+**Websites**
 - blog: [ironbirdlife.org](https://ironbirdlife.org)
 - resume: [danfreeman.us](https://danfreeman.us)
 
