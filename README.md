@@ -32,11 +32,11 @@
 - Synthetically measure your website's performance and visualize along side your RUM metrics
 - _Flap_ offers a cloud based platform for you, for **free**. Flap is a customized and integrated system of performance measurement tools, for your web based application performance measuring needs
 
- **Flap Cloud Architecture**
+ **Flap Multi Tenant Cloud Architecture**
    - Each domain that is recording beacons has it's own cloud stack in the flapsystem AWS account
    - Beacons from each domain belong to their own private S3 bucket, beacons from other domains will not be allowed in.
    - Each domain can only submit to it's respective receiver lambda, cors policy enforces this rule.
-   - All the systems in the diagram are replicated per domain
+   - Each instance in the diagram are replicated per domain (ie, each domain has it's own: bucket, queue, lambda, etc...)
    - Lambda code is shared between cloud stacks via the use of AWS Layers, for code re-use
    
    ![diagram](./images/arch.jpg)
