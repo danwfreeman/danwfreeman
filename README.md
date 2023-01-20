@@ -16,8 +16,9 @@
 
  
 **Websites**
-- blog: [ironbirdlife.org](https://ironbirdlife.org)
-- resume: [danfreeman.us](https://danfreeman.us)
+- Blog: [ironbirdlife.org](https://ironbirdlife.org)
+- Resume: [danfreeman.us](https://danfreeman.us)
+- Flap Systems: [flapsystems.com](https://flapsystems.com)
 
 **Other**
 - Fitness enthusiast
