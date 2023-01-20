@@ -15,6 +15,10 @@
 - HTML/CSS Expert
 
 
+**Websites**
+- blog: [ironbirdlife.org](https://ironbirdlife.org)
+- resume: [danfreeman.us](https://danfreeman.us)
+
 **Other**
 - Fitness enthusiast
 - Yesteryear's normal: Marathon, Triathlon, CrossFit
