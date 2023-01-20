@@ -36,7 +36,7 @@
    - Each domain that is recording beacons has it's own cloud stack in the flapsystem AWS account
    - Beacons from each domain belong to their own private S3 bucket, beacons from other domains will not be allowed in.
    - Each domain can only submit to it's respective receiver lambda, cors policy enforces this rule.
-   - Each instance in the diagram are replicated per domain (ie, each domain has it's own: bucket, queue, lambda, etc...)
-   - Lambda code is shared between cloud stacks via the use of AWS Layers, for code re-use
+   - Each instance in the diagram is replicated per domain (ie, each domain has it's own: bucket, queue, lambda, etc...)
+   - Lambda code is shared between cloud stacks via the use of AWS Layers, enabling tiny deploy sizes and code reuse
    
    ![diagram](./images/arch.jpg)
