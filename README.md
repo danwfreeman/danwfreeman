@@ -37,6 +37,6 @@
    - Beacons from each domain belong to their own private S3 bucket, beacons from other domains will not be allowed in.
    - Each domain can only submit to it's respective receiver lambda, cors policy enforces this rule.
    - Each instance in the diagram is replicated per domain (ie, each domain has it's own: bucket, queue, lambdas, etc...)
-   - With the exception of core common lambda code being shared between cloud stacks via the use of AWS Layers, enabling tiny deploy sizes and code reuse
+   - Core common lambda code is shared between cloud stacks via the use of AWS Layers, enabling tiny deploy sizes and code reuse
    
    ![diagram](./images/arch.jpg)
