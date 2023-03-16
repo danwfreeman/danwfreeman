@@ -20,6 +20,9 @@
 - Resume: [danfreeman.us](https://danfreeman.us)
 - Flap Systems: [flapsystems.com](https://flapsystems.com)
 
+**npmJS**
+- Navigation System: [npmjs.com/flap-nav](https://www.npmjs.com/package/flap-nav)
+
 **Other**
 - Fitness enthusiast
 - Yesteryear's normal: Marathon, Triathlon, CrossFit
